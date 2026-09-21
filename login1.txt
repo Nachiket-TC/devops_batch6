@@ -1,2 +1,0 @@
-This is login file for authentication.
-Please validate
